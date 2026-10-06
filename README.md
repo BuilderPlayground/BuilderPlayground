@@ -10,13 +10,13 @@ That question shapes how I approach technology. I'm interested not only in how p
 
 ## 🔭 A Bit of What I'm Up To
 
-- 🌱 Building a consumer platform exploring how technology can help people make better decisions, strengthen multiple dimensions of well-being, and more intentionally shape who they become.
+- Building a consumer platform exploring how technology can help people make better decisions, strengthen multiple dimensions of well-being, and more intentionally shape who they become.
 
-- ✍🏽 Building a media and community platform for ambitious women exploring culture, career, wealth, wellness, beauty, and contemporary womanhood through the lens of cultural intelligence, agency, and range.
+- Building a media and community platform for ambitious women exploring culture, career, wealth, wellness, beauty, and contemporary womanhood through the lens of cultural intelligence, agency, and range.
 
-- 🧬 Developing a longevity framework focused on women’s healthspan, cognition, strength, recovery, and long-term well-being.
+- Developing a longevity framework focused on women’s healthspan, cognition, strength, recovery, and long-term well-being.
 
-- 💻 Deepening my full-stack engineering practice and building with JavaScript, React, Node.js, Express, MongoDB, and REST APIs.
+- Deepening my full-stack engineering practice and building with JavaScript, React, Node.js, Express, MongoDB, and REST APIs.
 
 ## 🛠 Skills & Tools
 
@@ -33,13 +33,13 @@ Git · GitHub · VS Code · Postman
 
 When I'm not building, I'm usually following questions across:
 
-- 🧠 Behavioral science, cognition, decision-making, and human potential
-- 🤖 Consumer technology, AI, and emerging technology
-- 🌿 Health, wellness, longevity, and human performance
-- 💡 Startups, business models, entrepreneurship, markets, investing, and ownership
-- 🌎 Media, culture, policy, and the systems that shape opportunity
-- 🤝 Relationships, community, and social capital
-- ✍🏽 Writing, storytelling, and making complex ideas easier to understand
+- Behavioral science, cognition, decision-making, and human potential
+- Consumer technology, AI, and emerging technology
+- Health, wellness, longevity, and human performance
+- Startups, business models, entrepreneurship, markets, investing, and ownership
+- Media, culture, policy, and the systems that shape opportunity
+- Relationships, community, and social capital
+- Writing, storytelling, and making complex ideas easier to understand
 
 I'm especially interested in what becomes visible when these fields are considered together rather than in isolation.
 
