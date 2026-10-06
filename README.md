@@ -46,4 +46,5 @@ I'm especially interested in what becomes visible when these fields are consider
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ginaonyiuke)
-- [Website](https://ginaohq.netlify.app/)
+- [Portfolio](https://ginaohq.netlify.app/)
+- [Email](Ginao.jobs@gmail.com)
