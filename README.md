@@ -29,7 +29,7 @@ User Research · Behavioral Research · Product Thinking · UX Strategy · Infor
 **Tools**  
 Git · GitHub · VS Code · Postman
 
-## Beyond Code
+## 🧠 Beyond Code
 
 When I'm not building, I'm usually following questions across:
 
