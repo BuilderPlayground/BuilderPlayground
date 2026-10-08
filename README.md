@@ -12,7 +12,7 @@ That question informs how I build. I'm interested in understanding—and improvi
 
 - Building a consumer platform exploring how technology can help people make better decisions, strengthen multiple dimensions of well-being, and more intentionally shape who they become.
 
-- Building a media and community platform for ambitious women exploring culture, career, wealth, wellness, beauty, and contemporary womanhood through the lens of cultural intelligence, agency, and range.
+- Building a media and community platform for ambitious women that decodes modern life across culture, career, wealth, wellness, beauty, and power—equipping women with the insight, strategy, and perspective to navigate it with greater leverage, ownership, and range.
 
 - Developing a longevity framework focused on women’s healthspan, cognition, strength, recovery, and long-term well-being.
 
