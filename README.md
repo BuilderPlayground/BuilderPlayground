@@ -34,7 +34,7 @@ Git · GitHub · VS Code · Postman
 When I'm not building, I'm usually following questions across:
 
 - Behavioral science, cognition, decision-making, and human potential
-- Consumer AI and emerging technology
+- Consumer AI, emerging technology, the future of work, and the creator economy
 - Health, wellness, longevity, and human performance
 - Startups, business models, entrepreneurship, markets, investing, and ownership
 - Media, culture, policy, and the systems shaping opportunity
